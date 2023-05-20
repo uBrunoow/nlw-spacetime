@@ -1,7 +1,7 @@
 import Image from 'next/image'
 
 import nlwLogo from '../assets/nlw-spacetime-logo.svg'
-import { Link } from 'lucide-react'
+import Link from 'next/link'
 
 export function Hero() {
   return (
